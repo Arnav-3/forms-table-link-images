@@ -1,0 +1,93 @@
+html{
+    height:  100%;
+}
+body{
+    background-image: linear-gradient(to right top, #0a108c, #3f249c, #6039ad, #7d4fbe, #9966cf, #8e7fe3, #8596f3, #80acff, #50c4ff, #16d9ff, #23ebff, #5ffbf1);
+}
+table {
+    margin: 150px 50px 0;
+    border-collapse: collapse;
+    border-color: #000000;
+
+  }
+  th {
+    background-color: #1e8af0;
+    color: white;
+    border: 1px solid #1e8af0;
+    padding: 12px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  td {
+    border: 1px solid #7cacec;
+    background-color: #7cacec;
+    color: white;
+    padding: 12px;
+    text-align: center ;
+    font-size: 16px;
+  }
+  form {
+    margin: 150px 0;
+    text-align: center;
+    background-color: #064047;
+    padding: 20px;
+    position: relative;
+  }
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+  }
+  input[type="text"] {
+    width: 60%;
+    margin: 5px 0 5px 0;
+    color : white;
+    border: 5px solid #033a3f;
+    background-color: #78dce9;
+    font-size: 16px;
+  }
+
+  input[type="submit"] {
+    width: 20%;
+    background-color: #3FA3A9;
+    color: white;
+    padding: 10px 15px;
+    margin: 8px 0;
+    border-radius: 4px;
+    font-size: 10px;
+    font-weight: bold;
+    
+  }
+  input[type="submit"]:hover {
+    background-color: #078497;
+  }
+  p{
+    color: white;
+  }
+
+img{
+    margin: 150px 40px 0;
+    width: 90%;
+
+  }
+div
+{
+    width:32%;
+}
+.one
+{    
+    float: left;  
+}
+.two
+{
+
+    float: left;
+}
+.three
+{
+    float: left;
+}
